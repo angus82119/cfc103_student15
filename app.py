@@ -1,5 +1,5 @@
-   #!/bin/bash
-   print("hello world")
+#!/bin/bash
+print ("hello world")
 
 
 
