@@ -18,6 +18,5 @@
    > 孔子曾經說過: 「有教無類」
 
 
-   #!/bin/bash
-   sudo yum install git -y
-
+    #!/bin/bash
+        sudo yum install git -y
