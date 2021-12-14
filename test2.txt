@@ -1,0 +1,1 @@
+make sure second machine still can attach master branch of git 
